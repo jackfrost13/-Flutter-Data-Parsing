@@ -18,7 +18,9 @@ Go through all the README.MD files very carefully. It contains all the instructi
 ## Expectations And Rewards
 It is expected that you will complete the task in a timely manner.
 
-You have to read all the articles provided to you. Those articles will help you in completing the task. Quiz will be held after task completion, based on the task and resources provided
+You have to read all the articles provided to you. Those articles will help you in completing the task. 
+
+Quiz will be held after task completion.It will based on the resources provided (articles/videos) and task understanding
 
 **_Top performer will get an exciting prize as a token of appreciation_**
 
