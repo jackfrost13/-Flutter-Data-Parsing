@@ -3,6 +3,7 @@ This task will be available to you in 3 parts :
 * Beginner - Mock data parsing :- In this level we will provide you with a .csv file containing the list of articles and you have to create a list view of those articles
 * Intermediate - Local json parsing :- Here we will provide you with a local json to parse the articles.
 * Advance - API data fetching :- Here you will fetch data from a particular API
+#### It is very important to do this task as this task will serve as the base for our next Flutter Session
 ## Getting Started
 Go through all the README.MD files very carefully. It contains all the instructions of the task.
 
@@ -17,11 +18,9 @@ Go through all the README.MD files very carefully. It contains all the instructi
 ## Expectations And Rewards
 It is expected that you will complete the task in a timely manner.
 
-You have to read all the articles provided to you. Those articles will help you in completing the task. Quiz will held after task completion based on the task and article contents
+You have to read all the articles provided to you. Those articles will help you in completing the task. Quiz will held after task completion based on the task and resources provided
 
-It is very important to do this task as this task will be the base for our next Flutter Session
-
-**_Top performer will get an exciting prize as an token of appreciation_**
+**_Top performer will get an exciting prize as a token of appreciation_**
 
 ### What to do next
 Switch to the **beginner** branch and go through its README.MD
