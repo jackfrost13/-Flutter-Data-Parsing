@@ -2,12 +2,12 @@
 Your task is to create a listview of the articles. The csv file is already in the lib folder.
 Additionally you can access the excel file by visiting https://tinyurl.com/task03BeginnerData
 
-* Feel free to reach the TA's incase of any kind of confusion/doubt/if you need assistance 
+* Feel free to reach the TA's incase of any kind of confusion/doubt/assistance 
 
 ## App Demo
 <img src='https://github.com/jackfrost13/task03_dataparsing/blob/master/screenshots/beginner.gif?raw=true' width='300' >
 
-Your app **must** look similar to this.Ignore the rendering lag due to large gif file
+Your app **must** look similar to the demo. Ignore the rendering lag due to large gif size
 ## Task Instructions
 Go through the README.MD files very carefully.
 
